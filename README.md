@@ -2,3 +2,5 @@
 by Wilmer Vidal Uruchi Ticona wilmer.vidal.uruchi@est.fib.upc.edu
 
 These are some bootstrap themes I programmed as a way to get more practice with this tool.
+
+The themes are based on the content by: https://www.traversymedia.com
